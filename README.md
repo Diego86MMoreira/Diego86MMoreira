@@ -26,7 +26,7 @@ Exploração e visualização de dados de vendas:
 
 ---
 
-## 🛠️ Tecnologias que utilizo
+## 🛠️ Tecnologias utilizadas
 
 - SQL Server | T-SQL
 - Power BI | DAX
