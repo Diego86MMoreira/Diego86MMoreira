@@ -18,10 +18,10 @@ Você pode conferir meus projetos neste repositório: 📂 **[Meus Projetos](htt
 
 Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados.
 
+---
+## Principais Repositórios
 
-##  Principais Repositórios
-
-<table align="leftr">
+<table align="left">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Diego86MMoreira?tab=repositories&q=projetos" target="_blank">
@@ -30,18 +30,17 @@ Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas 
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Diego86MMoreira?tab=repositories&q=cursos" target="_blank">
-        <img src="https://img.shields.io/badge/-Meus%20Cursos-000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Meus Cursos"/><br/>
-        <sub>Repositórios com cursos e certificados</sub>
+      <a href="https://github.com/Diego86MMoreira/Cursos" target="_blank">
+        <img src="https://img.shields.io/badge/-Cursos-000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Cursos"/><br/>
+        <sub>Lista de cursos no GitHub</sub>
       </a>
     </td>
   </tr>
 </table>
-
-
-
-
-### ⚙️ Principais Skills
+<!-- Quebra para garantir o alinhamento dos próximos elementos -->
+<div style="clear: both; margin-top: 40px;"></div>
+  
+## ⚙️ Principais Skills
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="50" />
