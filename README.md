@@ -21,7 +21,7 @@ Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas 
 ---
 ## Principais Repositórios
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Diego86MMoreira?tab=repositories&q=projetos" target="_blank">
