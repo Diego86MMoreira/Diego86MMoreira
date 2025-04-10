@@ -19,26 +19,20 @@ Você pode conferir meus projetos neste repositório: 📂 **[Meus Projetos](htt
 Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados.
 
 ---
-## Principais Repositórios
+Principais Repositórios
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Diego86MMoreira?tab=repositories&q=projetos" target="_blank">
-        <img src="https://img.shields.io/badge/-Meus%20Projetos-000?style=for-the-badge&logo=github&logoColor=white" alt="Meus Projetos"/><br/>
-        <sub>Projetos de Análise de Dados</sub>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/Diego86MMoreira/Cursos" target="_blank">
-        <img src="https://img.shields.io/badge/-Cursos-000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Cursos"/><br/>
-        <sub>Lista de cursos no GitHub</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-<!-- Quebra para garantir o alinhamento dos próximos elementos -->
-<div style="clear: both; margin-top: 40px;"></div>
+<div align="left">
+
+<a href="https://github.com/Diego86MMoreira/PowerBI_DataScience" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego86MMoreira&repo=PowerBI_DataScience&title_color=9b59b6&text_color=ffffff&icon_color=9b59b6&bg_color=000000&hide_border=true" />
+</a>
+
+<a href="https://github.com/Diego86MMoreira/Cursos" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego86MMoreira&repo=Cursos&title_color=9b59b6&text_color=ffffff&icon_color=9b59b6&bg_color=000000&hide_border=true" />
+</a>
+
+</div>
+
   
 ## ⚙️ Principais Skills
 
@@ -55,3 +49,4 @@ Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas 
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" title="Microsoft Excel" width="50" />
 </p>
+
