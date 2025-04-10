@@ -17,3 +17,42 @@ Você pode conferir meus cursos neste repositório: 📘 **[Meus Cursos](https:/
 Você pode conferir meus projetos neste repositório: 📂 **[Meus Projetos](https://github.com/Diego86MMoreira?tab=repositories)**
 
 Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados.
+
+
+##  Principais Repositórios
+
+<table align="leftr">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Diego86MMoreira?tab=repositories&q=projetos" target="_blank">
+        <img src="https://img.shields.io/badge/-Meus%20Projetos-000?style=for-the-badge&logo=github&logoColor=white" alt="Meus Projetos"/><br/>
+        <sub>Projetos de Análise de Dados</sub>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Diego86MMoreira?tab=repositories&q=cursos" target="_blank">
+        <img src="https://img.shields.io/badge/-Meus%20Cursos-000?style=for-the-badge&logo=bookstack&logoColor=white" alt="Meus Cursos"/><br/>
+        <sub>Repositórios com cursos e certificados</sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+### ⚙️ Principais Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" title="Oracle SQL" width="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" width="50" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" title="Microsoft Excel" width="50" />
+</p>
