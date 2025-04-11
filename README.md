@@ -36,17 +36,34 @@ Principais Repositórios
   
 ## ⚙️ Principais Skills
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" alt="Oracle SQL" title="Oracle SQL" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" title="Power BI" width="50" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Microsoft Excel" title="Microsoft Excel" width="50" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/><br>
+      <sub>PostgreSQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/><br>
+      <sub>MySQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" width="50" alt="SQL Server"/><br>
+      <sub>SQL Server</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="50" alt="Oracle SQL"/><br>
+      <sub>Oracle SQL</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="50" alt="Power BI"/><br>
+      <sub>Power BI</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="50" alt="Excel"/><br>
+      <sub>Excel</sub>
+    </td>
+  </tr>
+</table>
+
+
 
