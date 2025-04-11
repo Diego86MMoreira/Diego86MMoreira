@@ -23,8 +23,8 @@ Principais Repositórios
 
 <div align="left">
 
-<a href="https://github.com/Diego86MMoreira/PowerBI_DataScience" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego86MMoreira&repo=PowerBI_DataScience&title_color=9b59b6&text_color=ffffff&icon_color=9b59b6&bg_color=000000&hide_border=true" />
+<a href="https://github.com/Diego86MMoreira/projetos_de_analise_de_dados" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Diego86MMoreira&repo=projetos_de_analise_de_dados&title_color=9b59b6&text_color=ffffff&icon_color=9b59b6&bg_color=000000&hide_border=true" />
 </a>
 
 <a href="https://github.com/Diego86MMoreira/Cursos" target="_blank">
