@@ -14,7 +14,7 @@ Tenho participado de bootcamps, treinamentos técnicos e cursos focados em dados
 
 Você pode conferir meus cursos neste repositório: 📘 **[Meus Cursos](https://github.com/Diego86MMoreira/Cursos)**
 
-Você pode conferir meus projetos neste repositório: 📂 **[Meus Projetos](https://github.com/Diego86MMoreira?tab=repositories)**
+Você pode conferir meus projetos neste repositório: 📂 **[Meus Projetos](https://github.com/Diego86MMoreira/projetos_de_analise_de_dados)**
 
 Atualmente, estou buscando novos desafios e oportunidades para aprimorar minhas habilidades na área de dados.
 
